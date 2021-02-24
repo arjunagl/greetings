@@ -1,4 +1,4 @@
-module example.com/greetings
+module github.com/arjunagl/greetings
 
 go 1.15
 
