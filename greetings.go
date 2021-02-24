@@ -10,7 +10,7 @@ import (
 func Hello(name string) string {
 	// Return a greeting that embeds the name in a message.
 	log.WithFields(log.Fields{
-		"animal": "simple logger 1.0.3",
+		"animal": "simple logger 2.0.0",
 	}).Info("A major logger version")
 
 	message := fmt.Sprintf("Hi, %v. Welcome!", name)
