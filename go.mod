@@ -1,4 +1,4 @@
-module github.com/arjunagl/greetings
+module github.com/arjunagl/greetings/v2
 
 go 1.15
 
